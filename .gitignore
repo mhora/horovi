@@ -1,0 +1,5 @@
+!.vscode
+./backend/instance
+./backend/lib
+./backend/bin
+node_modules

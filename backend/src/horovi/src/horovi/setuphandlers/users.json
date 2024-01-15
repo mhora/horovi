@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "matuho@gmail.com",
+      "properties": {
+        "fullname": "Horovi",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "horovi"
+    }
+  ],
+    "team": [
+  ]
+}
